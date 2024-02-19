@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/lisa-ling/
 [Gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[Gmail-url]: lisaling@seas.upenn.edu
+[Gmail-url]: mailto:lisaling@seas.upenn.edu
