@@ -1,5 +1,5 @@
 **Hi there, I'm Lisa!**
-
+****
 **📝 About me**
 + Currently pursuing a CS master's at the University of Pennsylvania
 + Began my development journey in 2023 by starting my master's after working for a few years in a business role
@@ -16,7 +16,7 @@
 **✨ Fun fact**
 + When not working, I love to bake, read (biographies and fiction) and paint!
 
-**Connect with me!**
+**☺️ Connect with me!**
 
 [![LinkedIn][LinkedIn]][LinkedIn-url] [![Gmail][Gmail]][Gmail-url]
 <!---
