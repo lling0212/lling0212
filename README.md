@@ -3,15 +3,16 @@
 **📝 About me**
 + Currently pursuing a CS master's at the University of Pennsylvania
 + Began my development journey in 2023 by starting my master's after working for a few years in a business role
-+ Passionate about building cool applications, exploring and learning different technologies
 
 **📌 Recent Projects**
++ Course Scheduler (Java, JUnit)
 + Caffeine Tracker App (SwiftUI, Firebase)
 + PomoPuzzle (React, JS, HTML, CSS)
 
 **⌨️ Technologies**
-+ I also have experiece with: Python, Java, C, SQL
-+ Currently learning: C++, AWS, LangChain
++ Languages: Python, Java, Javascript, SQL, Swift, C, C++, HTML, CSS
++ Frameworks/Libraries: Node, Express, Django, JUnit, React, Material UI, SwiftUI
++ Tech/Tools: AWS, Google Cloud Platform, MySQL, Git, Intellij, VSCode, XCode, Docker
 
 **✨ Fun fact**
 + When not working, I love to bake, read (biographies and fiction) and paint!
