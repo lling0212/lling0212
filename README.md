@@ -1,8 +1,7 @@
 **Hi there, I'm Lisa!**
 ****
 **📝 About me**
-+ Currently pursuing a CS master's at the University of Pennsylvania
-+ Began my development journey in 2023 by starting my master's after working for a few years in a business role
++ Currently pursuing a CS master's at the University of Pennsylvania (2025)
 
 **📌 Recent Projects**
 + Course Scheduler (Java, JUnit)
